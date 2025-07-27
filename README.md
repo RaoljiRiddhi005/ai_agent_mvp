@@ -103,29 +103,3 @@ ai_agent_mvp/
 
 
 
-
-
-
-
-
-
-
-
-
-## 🧰 Technologies Used
-- FastAPI
-- Uvicorn
-- MongoDB (`pymongo`)
-- ChromaDB
-- OpenAI API
-- DuckDuckGo Search API
-- Python Dotenv
-
----
-
-## 📦 Setup
-
-### 1. Clone the Repo
-```bash
-git clone https://github.com/RaolijiRiddhi005/ai_agent_mvp.git
-cd ai_agent_mvp
