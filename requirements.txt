@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+chromadb
+openai
+requests
+python-dotenv
+duckduckgo_search
